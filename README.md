@@ -2,7 +2,7 @@
 
 ## 📄 Internship Report (Main Submission)
 
-📄 [View Full Internship Report](PS2_Midterm_Report_Anwesha_Mondal.pdf)
+📄 [View mid term ps2 Internship Report](PS2_Midterm_Report_Anwesha_Mondal.pdf)
 
 # Design and Automation of Retention Marketing Campaigns
 
